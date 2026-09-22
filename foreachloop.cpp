@@ -4,8 +4,9 @@ using namespace std;
 
 int main()
 {
-    int arr[5];
-
+    //int arr[5];
+    int arr[] ={1,2,3,4,5};
+    
     cout<<"Enter Array Element :";
     for(auto &it : arr)
     {
